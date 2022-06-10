@@ -1,0 +1,159 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-size: 1.2em;
+    background-color: #FEFBF3;
+    
+}
+h1 {
+    text-align: center;
+    width: 50% ;
+    margin: 70px auto 0 auto;
+    font-size: 4rem;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: lighter;
+    color:#112031 ;
+    
+}
+.intro{
+    width:30%;
+    margin: auto;
+}
+.dp{
+    width:10% ;
+
+}
+
+.top-container {
+    background-color: #B3E8E5;
+    position: relative;
+    padding-top:100px ;
+   
+}
+.middle-container{
+    margin: 80px 0;
+}
+
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    
+}
+.bottom-cloud { 
+   
+    position:absolute;
+    left: 25%;
+    bottom: 30%;
+}
+.top-cloud{
+    position:absolute;
+    right: 30%;
+    top: 3%;
+}
+.mountain{
+    width: 25%;
+}
+ p{
+     line-height:2 ;
+ }
+.subheader {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+    font-size: 1.3rem;
+    color:#1A3C40;
+  }
+a {
+    color:#417D7A;
+    line-height: 5;
+    text-decoration: none;
+}
+a:hover{
+    color:#1b0604;
+}
+
+h3 {
+    color:#417D7A;
+}
+h2{
+    color:#417D7A;
+}
+.skill-row {
+    width: 50%;
+    margin: 40px auto 80px auto ;
+    text-align: left;
+    line-height: 3;
+
+}
+.codeimg{
+    width: 25% ;
+    float: left;
+    margin-right:45px ;
+}
+.designimg{
+    width: 40% ;
+    float: right;
+    margin-left:30px ;
+
+}
+.bottom-container{
+    position: relative;
+    background-color: #B3E8E5;
+    padding: 40px;
+}
+.twitter-img{
+    position:absolute;
+    left:44%;
+    top: 6%;
+    width:3%;  
+    
+}
+.github-img{
+    position:absolute;
+    left:48%;
+    top: 6%;
+    width:3%;
+}
+.linkedin-img{
+    position:absolute;
+    top: 6%;
+    left:53%;
+    width:3%; 
+}
+
+.credits{
+    color:#ffffff;
+    font-size: 0.75rem;
+    
+}
+
+.btn {
+    background: #0a0b0d;
+    background-image: -webkit-linear-gradient(top, #2F8F9D, #3BACB6);
+    background-image: -moz-linear-gradient   (top, #2F8F9D, #3BACB6);
+    background-image: -ms-linear-gradient    (top, #2F8F9D, #3BACB6);
+    background-image: -o-linear-gradient     (top, #2F8F9D, #3BACB6);
+    background-image: linear-gradient  (to bottom, #2F8F9D, #3BACB6);
+    -webkit-border-radius: 36;
+    -moz-border-radius: 36;
+    border-radius: 36px;
+    font-family:  'Source Code Pro', monospace;
+    font-weight: bolder;
+    color: #fffcff;
+    font-size: 17px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #417D7A;
+    text-decoration: none;
+  }
+  hr{
+      width:4%;
+      border: dotted #B8B5FF 6px;
+      border-bottom: none;
+      margin: 60px auto;
+
+  }
