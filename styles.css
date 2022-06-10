@@ -16,7 +16,7 @@ h1 {
     
 }
 .dp{
-    width:20% ;
+    width:10% ;
 }
 
 .top-container {
@@ -41,6 +41,8 @@ p {
     right: 400px;
     top: 50px;
 }
+.hill{
+    width: 25%;
 
 .subheader {
     font-family: 'Source Code Pro', monospace;
