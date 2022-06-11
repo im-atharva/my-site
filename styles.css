@@ -75,9 +75,13 @@ a:hover{
 
 h3 {
     color:#417D7A;
+    font-family: 'Source Code Pro', monospace;
+
 }
 h2{
     color:#417D7A;
+    font-family: 'Source Code Pro', monospace;
+
 }
 .skill-row {
     width: 50%;
